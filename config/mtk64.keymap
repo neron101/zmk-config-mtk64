@@ -94,7 +94,7 @@
 
         layer_6 {
             bindings = <
-&trans  &kp LS(NUMBER_1)  &kp LS(AT_SIGN)  &kp LS(N3)  &kp LS(N4)  &kp LS(N5)  &kp RS(NUMBER_6)  &kp RS(N7)  &kp RS(N8)  &kp RS(N9)  &kp RS(N0)  &trans  &trans  &kp LEFT_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &kp LANGUAGE_1  &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_UP  &trans  &trans  &trans  &trans  &trans  &kp LANG2  &trans  &mkp MB4  &mkp MB5  &mkp MB1  &mkp MB2  &mkp MB3  &kp F14  &kp F15  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_DOWN  &kp SPACE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LS(NUMBER_1)  &kp LS(AT_SIGN)  &kp LS(N3)  &kp LS(N4)  &kp LS(N5)  &kp RS(NUMBER_6)  &kp RS(N7)  &kp RS(N8)  &kp RS(N9)  &kp RS(N0)  &trans  &trans  &kp LEFT_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &trans  &trans  &kp HOME  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &kp LANGUAGE_1  &kp END  &trans  &trans  &trans  &trans  &kp C_VOLUME_UP  &trans  &trans  &trans  &trans  &trans  &kp LANG2  &trans  &mkp MB4  &mkp MB5  &mkp MB1  &mkp MB2  &mkp MB3  &kp F14  &kp F15  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp C_VOLUME_DOWN  &kp SPACE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
 
             sensor-bindings =
